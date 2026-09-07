@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-09-08",
+    "daily_summary": "本日のAIニュースは、国連による人類存亡のリスクへの警鐘といったグローバルな規制議論から、警察庁の110番対応支援や東大発ベンチャーによる製造業再生といった国内の実用化・社会実装の動きまで幅広く報じられました。また、AI普及に伴うコンサル大手の対人スキル重視への回帰や従業員不正を防ぐ包括的対策の必要性が指摘される一方で、日本IBMの地方拠点設立や進化する各種AIスマートグラスの使用感など、ビジネスから日常生活に至るまでAIの浸透と課題が多角的に浮き彫りになった一日となりました。",
+    "articles": [
+      {
+        "title": "【速報】国連、AI巡り「人類存亡のリスク」警告",
+        "content": "国連は人工知能（AI）の急速な発展に伴い、人類の存亡に関わる重大なリスクがあるとして強い警鐘を鳴らしました。国際的な規制や安全対策の重要性が改めて強調されています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcVFEdDV5WUY2LTh0ZEtieGw2ZVZlZDhOelBTR0NKUEhPT21LeGV5ck1rTkZBbHRvRHgxS0JQUXJtOUh5WC1xamxDNA?oc=5",
+        "category": "政策・安全"
+      },
+      {
+        "title": "110番通報対応のAI開発へ 警察庁",
+        "content": "警察庁が110番通報の対応を支援するAIシステムの開発に乗り出すことが報じられました。音声認識や要約技術を活用することで、緊急通報の迅速かつ正確な処理を目指します。これにより、現場への出動指令の効率化や被害の最小化が期待されます。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sTGMtR1BaamFhei00bDRIMUtZR2VFMzF3cnZFUG5uRFMxaGhMQllYYXd3c09FcE9xSzlmb2xJNUlleG1pZWNWRWxQd01IdHlF?oc=5",
+        "category": "政策・安全"
+      },
+      {
+        "title": "経営危機の老舗モーター企業を救った東大発AIユニコーン｢燈｣､出資の裏にあるフィジカルAI･完全子会社化のロードマップ",
+        "content": "東大発のAIスタートアップ企業である燈が、経営危機の老舗モーター企業に出資し、フィジカルAIを活用した完全子会社化を目指すロードマップが明かされた。AI技術と伝統的な製造業の融合による事業再生の裏側が報じられている。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85dkNsWlZKaHk0QlI2YUR1bmlzd1hsS3F2UkxaTy1XazZ5N1JfNjJCTG9temhOYUhKQ3dVdkRDMGZUS01JZGVtZ1Z3NG1yTlhXUlZCck03b1NHMi1NN1VZ?oc=5",
+        "category": "事業・投資"
+      },
+      {
+        "title": "コンサル大手、若手に出社回帰促す AI普及で対人スキル重視",
+        "content": "AIの普及が進む中、コンサルティング大手企業が若手社員に対してオフィスへの出社回帰を強く促している。これは、画面越しでは培いにくい対人スキルやチームワークの重要性が改めて見直されているためである。実務におけるAI活用が進む一方で、人間同士のコミュニケーション能力の育成が急務となっている。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXOFJoSHBtRWVuWmdUY2RzSWdONlNVYnpvTUpUalhBamdydXBFcTlpMjlUYlpmYkdiRlhLbERINVlSdVFwbko1Q2NySlN6WkFVNzBIRHViclk2clBGaEhXem9WUkZMZk1KeTQxYw?oc=5",
+        "category": "事業・投資"
+      },
+      {
+        "title": "日本IBM、北九州に新拠点 AIで間接業務の効率化支援",
+        "content": "日本IBMは北九州市に新しい拠点を設立し、AI技術を活用した企業の間接業務の効率化支援に乗り出します。地方都市におけるデジタル化と業務改革の推進が期待されています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YTGJtbUlZaXdndzVUeGo2OGJCMTB2RWtKVzJlTXlVbkJyTS03YXUxNENfbjJPLVpMeElOc1lUWHo3VlFtMzNrRXMyeHlpOHhpUlhFa0xB?oc=5",
+        "category": "事業・投資"
+      },
+      {
+        "title": "明日の株式相場に向けて＝「ＡＩ・半導体」反転攻勢のロードマップ",
+        "content": "この記事では、今後の株式市場におけるAIおよび半導体関連銘柄の動向と反転攻勢のシナリオについて解説しています。市場の注目が集まるセクターの投資戦略や今後のロードマップが示されています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aYUNuZEhzb1ZkeE9naldaTjFaYUlKSXFfVGRwdGEydlRVTE9iMHZBamZzVG8ySnNXcWJwV3pPbUd0YkotV0pPUXZGRmpFYzBBcWRVYmhQQlBJbzFiVnk0Ng?oc=5",
+        "category": "事業・投資"
+      },
+      {
+        "title": "くら寿司「ちいかわ」コラボ不正：AI監視だけでは防げない従業員による景品横流しの対策",
+        "content": "人気キャラクター「ちいかわ」とのコラボ企画において、従業員による景品の横流しや内部不正が問題となっています。AIによる監視だけでは防げない転売や不正行為に対し、在庫記録、例外検知、映像確認を組み合わせた包括的な防止策の必要性が指摘されています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzTW9ZcjBESjRRRWJfTmk0VkI3eWtTZjBSOFoxdUxSbzlrWWFmRXphbWJVZ0lfNjIxU2p1Zl8wZGZoUFlkM3hmbG9qZjVTVGs4aDZVQlVn?oc=5",
+        "category": "その他"
+      },
+      {
+        "title": "【ミニレビュー】ディスプレイ付きAIグラス「RayNeo iO Smart Glasses」使ってみた",
+        "content": "ディスプレイを搭載したAIグラス「RayNeo iO Smart Glasses」のミニレビュー記事です。実際に使用した際の機能や使い心地について紹介しています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU1pZZ0VoeDNlTngxR195LWZRVzFLbi1zS1RqX3hkTnJmRzhYM0NHLUpMallWNmR1VjBNeXVucW9HRENCMUQzU3pfczBZZmQ5QzlWZ2N5WjJZV3lEUkNaaW5MaVE5dzJhZWlzS1F6b0N4N2VK?oc=5",
+        "category": "エージェント・開発ツール"
+      },
+      {
+        "title": "カメラのないAIグラス「RayNeo iO」の機能性と可能性",
+        "content": "カメラを搭載しない新しいAIグラス「RayNeo iO」の特徴と機能性についての検証記事です。盗撮の懸念を払拭する一方で、カメラなしでどこまでの体験や実用性を提供できるのかが注目されています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTGVfVzhfZFQ0aEtHUnFSTE9QRVgtY295aGhPSFRoWHRrS0lMcHBlQ2ZxNDFFcHVFVDJQNzNSWWduQ1h1Vld4MEJEWTN3dDlrT3BsUHNCbURMdW5SWW5JZkNiTkVhMGVuZEE?oc=5",
+        "category": "エージェント・開発ツール"
+      },
+      {
+        "title": "AIスマートグラス『Ray-Ban Meta』を2カ月使って分かったリアルな使用感",
+        "content": "人気スマートグラス「Ray-Ban Meta」を2カ月間使用したリアルなレビュー記事。日常的に最も活用されているのはカメラとスピーカーであり、AI機能については今後のさらなる進化に期待が寄せられています。",
+        "source": "Google News",
+        "published_at": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wZWthdVJtYy1Qc0VlM0xDWnYtRDM4cGRlR2UwUTJ3dHhNbF9aVkFjZm4wTW53WlM1eVZYcnBSQnRWQUp5Zi0wMEJjWWtvSlMxc0c2aDJ0UVc2emp3ZDBMTNIBZkFVX3lxTE5fS3FMX1JnUkxpQXhZcnRJZHVUaG5KcmhOWHQxQjllWkxrUUw4c3NDQ1RUaDV2cDE1MzdiVHRxcURkVGhKR1QzVlBhUFJGZ1E3UHpTNk5fSC1IbklWYm1FX1lxMWg5dw?oc=5",
+        "category": "エージェント・開発ツール"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "daily_summary": "本日のAIニュースでは、ジブリの鈴木プロデューサーによる生成AIへの見解やコロプラの積極的なゲーム導入といったクリエイティブ領域の話題に加え、がん患者や家族による医療相談でのAI利用の広がりが報じられました。また、早稲田大学による自動運転の画像認識精度向上といった技術的進歩がある一方で、AIエージェントによる放置サイトの乗っ取りや、元研究者らによるAIの自律的暴走・リスクに対する強い警告が出されるなど、技術の急速な発展と安全性や倫理的規制を巡る課題が改めて浮き彫りになる一日となりました。",
     "articles": [
