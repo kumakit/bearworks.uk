@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-09-09",
+    "daily_summary": "本日のAIニュースは、AIエージェントの活用や「AI PC」の普及など業務効率化やライフスタイルの変化が進む一方で、NECの「無人部署」導入のような労働市場へのインパクトやシステム連携の課題が浮き彫りになりました。また、先端AIの安全性確保や米中間の技術覇権争い、AI生成画像の著作権をめぐる裁判など、法規制や国際的なルール作りの重要性も高まっています。",
+    "articles": [
+      {
+        "title": "AIに仕事任せて自由に生きる LINEヤフー去り前会長は旅に出た",
+        "content": "AIの発展により働き方やライフスタイルがどのように変化するかを探る朝日新聞の特集記事です。LINEヤフーを去った前会長の生き方を通じて、AI時代における人間の自由な生き方に焦点を当てています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51eTYxbVN1c0Z0ZmNZRV9vNjlIa0hmUnFOQUJTQUM0M18zaHVSb004ckc4ZWhEOEo3dEdUOFdtVmNKM0xEbjY4LV8yNUc1RWwzWDQyaFNTMzBxR1c4a1dGamk1VTBBdEU?oc=5",
+        "category": "その他"
+      },
+      {
+        "title": "（社説）先端ＡＩ 安全確保の国際基準を",
+        "content": "朝日新聞の社説において、先端AIの開発と普及が進む中で安全性を確保するための国際的な基準作りの必要性が論じられています。技術の急激な進化に伴うリスクを軽減するため、各国が協調して規制やガイドラインを策定することが急務であると訴えています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBWVBYckNRbVRxRlVZalc5ZzN3ZDhKeWk4VWpLb3lXTXEwcEphcGpPUEF4WGNvbWhsOEM5MkdzSnVBQVlmM3JyLWxuVE4wTGhOTUZmX3hWWExHbzVt?oc=5",
+        "category": "政策・安全"
+      },
+      {
+        "title": "米政府、中国AI企業6社を非難 「悪意をもって技術複製」",
+        "content": "米国政府は、中国のAI企業6社が悪意を持って米国の技術を複製しているとして強く非難しました。この動きは、米中間の技術覇権争いや安全保障上の懸念が一段と高まっていることを示しています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWxpcWlTSDBxbWt6VEdCOG9YSDdEQ3VLbkVKbmQ2MVFwajZ6cG82ODVBU1JtSGhLUVJxcG9FWGdvTkN6QWVIbFRUeUROR3gyU19vRUxPc0RheUVjVkR6OEFGMGxrakxrSkhoaUNveWIyRTNKdEoyeW9aMm45REYxZTV3?oc=5",
+        "category": "政策・安全"
+      },
+      {
+        "title": "対中AI半導体規制を巡る攻防の深層、中国「限定緩和」と海外クラウド迂回利用の実態",
+        "content": "米国の対中AI半導体規制を巡り、一部の限定緩和や海外クラウドサービスを通じた迂回利用の実態が浮き彫りになっています。米中間の技術覇権争いにおける新たな課題と、規制の抜け穴をめぐる攻防の現状を詳しく解説しています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uLWlfRGRMWlNLTzF2UWVaSzZkaTRJbmd5ZGlpTEFSTWpUYWhkd1AwelBSTjAzUHlUdk5XRUFSUFU5VUZxZlIwVURHZEc4UUF1TkZpWlJ3?oc=5",
+        "category": "政策・安全"
+      },
+      {
+        "title": "「AI PC」はNPU搭載が基本、AI処理に特化しGPUより省電力",
+        "content": "AI PCの基本仕様としてNPUの搭載が進んでおり、AI処理に特化することでGPUよりも高い省電力性を実現しています。これにより、PC上での高度なAI機能の利用がより効率的になると期待されています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uLXZMRk9fRnBiRzZwVHluS0t5MlJ6WnhsRnlyQ1c5MTU2TmpFZVU2bDhHcUhIcDRwY01XcmRFOHJibkZUSEFscTNNMmRqUE9pTmx5MmRCTFRTNkRLd2JjNjBocmkyQ3BpTmh3Yw?oc=5",
+        "category": "インフラ・半導体"
+      },
+      {
+        "title": "環境やAI 研究成果発表 ユネスコスクールの安達高",
+        "content": "福島民報デジタルにて、ユネスコスクールに指定されている安達高校の生徒による環境や人工知能（AI）に関する研究成果発表の様子が報じられています。日頃の探究活動の成果が地域社会に向けて披露されました。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SRWVIeUJlZUg3LWI5QXRGVVQ0N2YyMFEzY1hFeXZCVGJySFV4V3FYdEhyb0tJVEQyeGRsOHZhcXFvTmhfSzdnVk5oVm56Rlk?oc=5",
+        "category": "モデル・研究"
+      },
+      {
+        "title": "ヘアモデル画像酷似で無断使用と提訴 「AI生成画像」に著作権あるのか、司法判断に注目",
+        "content": "ヘアモデルの画像に酷似したAI生成画像が無断で使用されたとして、著作権侵害をめぐる裁判が提起されました。AIによって生成された画像に著作権が認められるかどうかが争点となっており、今後の司法判断に大きな注目が集まっています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpNEJGVDlRYUxPM1laOE1FeTdFTXFYSXEyTFJLTUktSHFzVExfOTB6S2VVMUI3YWNrZlNBSXQ0UEdrS2VOX1ZrX1pEY3NTcEpXbl9VczRTQzJRRTd0bVpBdndKZlFRVlhlRk10dEFIaDctLXdoMWc?oc=5",
+        "category": "政策・安全"
+      },
+      {
+        "title": "AIエージェントに株式投資を任せる人々",
+        "content": "近年のAI技術の進歩に伴い、自身の株式投資の判断をAIエージェントに完全に委任する人々が増加しています。自動化された取引手法により、人間とは異なる視点やスピードでの運用が期待される一方で、新たなリスク管理の課題も浮き彫りになっています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGdSMkRuUExrcVVzNC1wYzJzeXhQZTk4NC04RVFBLWM3dGhkZk9VVDRVX0lObUVnWF9idUdtWVlkZ2VheDlBQWdhcHdyTHk3UHpaemVmMVR0Q0JTZjdOQ3JpZzhLdW00ZkpkNUtibWE3M1BDc19SQjFvLVVCX1AyZTFGbTU5RzZsSTNhNVRDdmlEaGwzNnl2TFFHYWg?oc=5",
+        "category": "事業・投資"
+      },
+      {
+        "title": "NEC「無人部署」の衝撃 35体のAIエージェント、「人件費」は月35万円",
+        "content": "NECが導入した35体のAIエージェントによる無人部署の取り組みについて紹介しています。月額35万円という驚異的な低コストで運用されるAIエージェントの動向は、今後の業務効率化や労働市場に大きな影響を与える可能性があります。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTEdESm5seUg2c0R1amE2Ymg4aTBCcVZyRkd2anhmVTR2bnNVRkExSTRJSExGRWhTcG1ybXhpWktNV0FVQWNwV3pESHd2ckdSS3ItTDI2eXMtdER0OGRvM2IzTWoyUGc?oc=5",
+        "category": "エージェント・開発ツール"
+      },
+      {
+        "title": "「コピペ運用の限界」に直面するAI活用 7割超が“別画面”のまま使う理由は？：「いつものシステム」で使えないAIツール",
+        "content": "多くの企業でAI活用が進む中、既存の業務システムと連携できず、別画面でのコピペ運用を強いられている実態が明らかになりました。使い慣れた「いつものシステム」にAIが組み込まれないことが、業務効率化の壁となっています。",
+        "source": "Google News",
+        "published_at": "2026-09-09",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DM3dDQ2VDd1V6dW16SDJIVjdqenBDQkVMaFJ1Sm4wcXQ1XzhvSTlCcmFTZEdBRHhoREk3VDNweFZqVVpWUDhJQkE4MVFQUWxiMHFWN3Y1V0dibFJBRGhHY1JNbUlCY1JzOENJUUpGckY?oc=5",
+        "category": "エージェント・開発ツール"
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "daily_summary": "本日のAIニュースは、国連による人類存亡のリスクへの警鐘といったグローバルな規制議論から、警察庁の110番対応支援や東大発ベンチャーによる製造業再生といった国内の実用化・社会実装の動きまで幅広く報じられました。また、AI普及に伴うコンサル大手の対人スキル重視への回帰や従業員不正を防ぐ包括的対策の必要性が指摘される一方で、日本IBMの地方拠点設立や進化する各種AIスマートグラスの使用感など、ビジネスから日常生活に至るまでAIの浸透と課題が多角的に浮き彫りになった一日となりました。",
     "articles": [
